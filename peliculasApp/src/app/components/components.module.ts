@@ -25,7 +25,8 @@ import { CastSlideshowComponent } from './cast-slideshow/cast-slideshow.componen
   exports: [
     NavbarComponent,
     SlideshowComponent,
-    PeliculasPosterGridComponent
+    PeliculasPosterGridComponent,
+    CastSlideshowComponent
   ]
 })
 export class ComponentsModule { }
